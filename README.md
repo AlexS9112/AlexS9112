@@ -1,4 +1,4 @@
-![Header](https://github.com/AlexS9112/AlexS9112/blob/main/assets/q342.png)
+![Header](https://github.com/AlexS9112/AlexS9112/blob/main/assets/title-bg-22.jpeg)
 
 ## QA engineer
 
