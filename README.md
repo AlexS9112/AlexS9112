@@ -10,5 +10,5 @@
 ![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=DBeaver&logoColor=008000)
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D)](https://t.me/alexsultanov)
 ![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)
