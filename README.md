@@ -1,4 +1,4 @@
-[![Header]https://github.com/AlexS9112/AlexS9112/blob/main/assets/shutterstock_337811585.png]
+[![Header]https://raw.githubusercontent.com/AlexS9112/AlexS9112/main/assets/shutterstock_337811585.png]()
 
 About me
 
