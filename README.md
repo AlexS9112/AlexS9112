@@ -7,6 +7,7 @@
 
 ![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/icons8-postman-is-the-only-complete-api-development-environment-24.png)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=008000)
+![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/icons8-javascript-100.png)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=25)
 ![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/icons8-sql-50.png)
 ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=&logoColor=00648B)
