@@ -11,10 +11,7 @@
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=008000)
 ![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/icons8-dbeaver-64.png)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=DBeaver&logoColor=008000)
-
-
-<img align="left" alt="Terminal" width="26px" src="https://github.com/AlexS9112/AlexS9112/blob/main/assets/icons8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C-30.png" />
-
+![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/icons8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C-30.png)
 ![Terminal](https://img.shields.io/badge/-Terminal-090909?style=for-the-badge&logo=&logoColor=008000, )
 
 
