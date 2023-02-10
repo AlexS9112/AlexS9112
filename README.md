@@ -4,6 +4,8 @@
 ### Меня зовут Александр 
 ### Я Junior QA engineer 
 
+- учусь 
+- прохожу комерческую практику 
 
 
 ### Languages and Tools
