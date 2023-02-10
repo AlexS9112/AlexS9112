@@ -5,7 +5,7 @@
 ### Languages and Tools
 
 
-![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/icons8-postman-is-the-only-complete-api-development-environment-24.png)
+![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/postman.png)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=008000)
 ![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/js.png)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=25)
