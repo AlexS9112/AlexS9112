@@ -1,6 +1,9 @@
 ![Header](https://github.com/AlexS9112/AlexS9112/blob/main/assets/title-bg-2222.jpeg)
+## Привет!
 
-## QA engineer
+## Меня зовут Александр
+
+## Я Junior QA engineer
 
 ### Languages and Tools
 
