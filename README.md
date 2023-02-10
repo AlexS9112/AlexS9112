@@ -7,10 +7,10 @@
 
 ![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/postman.png)
 ![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/js.png)
-![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/sql.png)
+![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/nsql.png)
 ![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/Charli.png)
 ![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/dbiv.png)
-![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/konsol.png)
+![This is image](https://github.com/AlexS9112/AlexS9112/blob/main/assets/konnew.png)
 
 ### Follow Me
 
